@@ -1,8 +1,9 @@
+/*
 Name: Luascript
 Core: Node.js
   (In the past: Luau)
 
-OOP: ?
+DSL: ?
 Basic Functions:
 Start of Lua/Node functions
 Fully LOGIC based
@@ -112,3 +113,4 @@ Rules:
   -BLOCK - Nice!
   -THEBIGGLOCK - Bad :(
   -S - Also bad :(
+*/
