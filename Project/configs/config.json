@@ -1,0 +1,35 @@
+{
+    "version":"0.0.1",
+    "expreimental_functions": [],
+    "startpoint": "luascript/index.",
+    
+    "blocks":{
+        "AND":{
+            "name":"and-inb",
+            "keyword":"AND",
+            "single-line": false,
+            "left-arg": true,
+            "right-arg": true,
+            "args": [],
+            "logical-expression": false
+        },
+        "OR": {
+            "name":"or-inb",
+            "keyword":"OR",
+            "single-line": false,
+            "left-arg": true,
+            "right-arg": true,
+            "args": [],
+            "logical-expression": false
+        },
+        "NOT": {
+            "name":"not-inb",
+            "keyword": "NOT",
+            "single-line": false,
+            "left-arg": false,
+            "right-arg": true,
+            "args": [],
+            "logical-expression": false
+        }
+    }
+}
