@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146"
+   height="147"
+   viewBox="0 0 38.629166 38.89375"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1651">
+      <stop
+         style="stop-color:#00715d;stop-opacity:1;"
+         offset="0.25326371"
+         id="stop1647" />
+      <stop
+         style="stop-color:#006276;stop-opacity:1;"
+         offset="1"
+         id="stop1649" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1651"
+       id="linearGradient1653"
+       x1="-12.734735"
+       y1="1.7609783"
+       x2="9.2127771"
+       y2="1.7609783"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(4.7624998,5.0270834)">
+    <path
+       style="fill:url(#linearGradient1653);fill-opacity:1;stroke:#b20000;stroke-width:0;stroke-linecap:square;stroke-dashoffset:120"
+       id="path234"
+       d="M -12.734734,-3.3319587 9.2127765,-9.2127771 3.3319596,12.734733 Z"
+       transform="matrix(1.1442818,0,0,1.1442818,15.200558,11.399111)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:4.37895px;line-height:0px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;fill:#000132;fill-opacity:1;stroke:#b20000;stroke-width:0;stroke-linecap:square;stroke-dashoffset:120"
+       x="11.479894"
+       y="11.788261"
+       id="text1709"
+       transform="rotate(-17.010833)"><tspan
+         id="tspan1707"
+         style="fill:#000132;fill-opacity:1;stroke-width:0"
+         x="11.479893"
+         y="11.788261">Luascript</tspan><tspan
+         style="fill:#000132;fill-opacity:1;stroke-width:0"
+         x="11.479894"
+         y="11.788261"
+         id="tspan1711" /></text>
+  </g>
+</svg>
