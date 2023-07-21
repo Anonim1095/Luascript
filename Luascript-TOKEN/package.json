@@ -1,0 +1,23 @@
+{
+  "name": "luascript",
+  "version": "0.0.1-2",
+  "description": "Luascript - Full logic-based lang writed on Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonim1095/Luascript.git#main"
+  },
+  "keywords": [
+    "custom-programming-lang"
+  ],
+  "author": "anonim1095",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anonim1095/Luascript/issues"
+  },
+  "homepage": "https://github.com/Anonim1095/Luascript/tree/main#readme"
+}
